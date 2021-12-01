@@ -2,11 +2,13 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    
 }
 
 body{
     /* background-image: linear-gradient(to bottom right ,#0b090a,#242423 ); */
     background-color: black;
+    
 }
 .scroll{
     scroll-snap-type: y mandatory;
