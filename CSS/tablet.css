@@ -1,0 +1,29 @@
+@media (max-width: 768px){
+    #nav, #nav span{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #nav span img{
+       height: 150px;
+       animation: move3 1 1.5s ;
+    }
+    h1{
+        font-size: 44px;
+        animation: move 0 1.5s ;
+    }
+    #nav div{
+        margin-left: 30px;
+        animation: move3 0 1.5s ;
+    }
+    #nav div a{
+        font-size: 24px;
+        
+    }
+    .pngs{
+        width: 20%;
+        animation: move2 infinite 5s ;
+        margin-bottom: 10%;
+    }
+
+}

@@ -1,0 +1,11 @@
+@media (max-width: 580px){
+    .pngs{
+        width: 20%;
+        animation: move2 infinite 5s ;
+        margin-bottom: 10%;
+    }
+    #Work div img{
+        margin-top: 10%;
+    }
+
+}
